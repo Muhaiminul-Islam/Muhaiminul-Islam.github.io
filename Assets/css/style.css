@@ -348,6 +348,42 @@ th, td {
 	text-align: left;
 	font-family: 'Arvo', serif;
 	color: #17252a;
+	font-weight: bold;
+}
+
+.skillicon {
+	margin: 0;
+	padding: 0 20px;
+	display: block;
+	overflow: hidden;
+}
+
+.singelicon {
+	margin: 0;
+	padding: 0 5px;
+	float: left;
+}
+
+.singelicon img {
+}
+
+.singelicon figcaption {
+	font-family: 'Arvo', serif;
+	color: #17252a;
+	font-size: 12px;
+}
+
+.personalskill {
+	background-color: #3aafa9;
+	border-radius: 25px;
+	margin: 5px;
+	padding: 5px 15px;
+	display: inline-block;
+	font-size: 16px;
+	text-align: center;
+	font-family: 'Arvo', serif;
+	color: #17252a;
+
 }
 
 .bar {
@@ -367,33 +403,8 @@ th, td {
 	border-radius: 10px;
 	font-size: 14px;
 	background-color: #3aafa9;
-	color: #def2f1;
+	color: #17252a;
 }
-
-.ps {
-	width: 90%;
-}
-
-.mso {
-	width: 95%;
-}
-
-.gis {
-	width: 85%;
-}
-
-.rs {
-	width: 70%;
-}
-
-.msp {
-	width: 80%;
-}
-
-.hr {
-	width: 100%;
-}
-
 
 .mng {
 	width: 80%;
