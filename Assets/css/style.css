@@ -692,6 +692,7 @@ form .submit:hover {
 		overflow: auto;
 		width: 400px;
 		height: 590px;
+		z-index: 2;
 	}
 
 	.resume {
@@ -709,7 +710,7 @@ form .submit:hover {
 		position: absolute;
 		top: 0;
 		left: 510px;
-		display: none;
+		display: block;
 		margin-top: 0;
 		overflow: auto;
 		width: 400px;
